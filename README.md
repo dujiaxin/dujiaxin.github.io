@@ -1,6 +1,6 @@
 # dujiaxin.github.io
 
-your position is something here
+GVSU 
 
 ## heading level 2
 
